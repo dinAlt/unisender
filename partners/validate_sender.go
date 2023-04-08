@@ -1,6 +1,6 @@
 package partners
 
-import "github.com/alexeyco/unisender/api"
+import "github.com/dinalt/unisender/api"
 
 // ValidateSenderResult email validation response.
 type ValidateSenderResult struct {

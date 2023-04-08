@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // GetCampaignStatusResult campaign status result.

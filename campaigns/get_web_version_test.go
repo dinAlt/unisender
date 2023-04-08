@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/campaigns"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/campaigns"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestGetWebVersionRequest_Execute(t *testing.T) {

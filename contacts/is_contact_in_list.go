@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // IsContactInListRequest request to check whether the contact is in the specified user lists.

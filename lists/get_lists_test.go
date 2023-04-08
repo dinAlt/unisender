@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/lists"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/lists"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestGetListsRequest_Execute(t *testing.T) {

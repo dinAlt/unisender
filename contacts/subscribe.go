@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // SubscribeResult response of subscribe request.

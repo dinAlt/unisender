@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/alexeyco/unisender/messages"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/messages"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestDeleteMessageRequest_Execute(t *testing.T) {

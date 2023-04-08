@@ -1,8 +1,8 @@
 package messages_test
 
 import (
-	"github.com/alexeyco/unisender/messages"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/messages"
+	"github.com/dinalt/unisender/test"
 	"net/http"
 	"strconv"
 	"testing"

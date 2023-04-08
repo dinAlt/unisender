@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/partners"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/partners"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestValidateSenderRequest_Login(t *testing.T) {

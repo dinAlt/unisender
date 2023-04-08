@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // UnsubscribeRequest request that unsubscribes the contact email or phone number from one or several lists.

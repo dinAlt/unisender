@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/contacts"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/contacts"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestGetTotalContactCountRequest_Execute(t *testing.T) {

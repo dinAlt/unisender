@@ -1,12 +1,12 @@
 # Golang API client for [unisender.com](https://unisender.com)
 
-[![Travis](https://img.shields.io/travis/alexeyco/unisender.svg)](https://travis-ci.org/alexeyco/unisender)
-[![Coverage Status](https://coveralls.io/repos/github/alexeyco/unisender/badge.svg?branch=master)](https://coveralls.io/github/alexeyco/unisender?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/alexeyco/unisender)](https://goreportcard.com/report/github.com/alexeyco/unisender)
-[![GoDoc](https://godoc.org/github.com/alexeyco/unisender?status.svg)](https://godoc.org/github.com/alexeyco/unisender)
+[![Travis](https://img.shields.io/travis/dinalt/unisender.svg)](https://travis-ci.org/dinalt/unisender)
+[![Coverage Status](https://coveralls.io/repos/github/dinalt/unisender/badge.svg?branch=master)](https://coveralls.io/github/dinalt/unisender?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dinalt/unisender)](https://goreportcard.com/report/github.com/dinalt/unisender)
+[![GoDoc](https://godoc.org/github.com/dinalt/unisender?status.svg)](https://godoc.org/github.com/dinalt/unisender)
 
 Unisender – simple service for email and SMS campaigns.
-Examples and documentation available on [godoc](https://godoc.org/github.com/alexeyco/unisender).
+Examples and documentation available on [godoc](https://godoc.org/github.com/dinalt/unisender).
 
 ## License
 

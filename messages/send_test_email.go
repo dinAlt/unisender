@@ -3,7 +3,7 @@ package messages
 import (
 	"strconv"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // SendTestEmailRequest request to send a test email message.

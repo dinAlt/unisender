@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/messages"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/messages"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestCheckEmailRequest_Execute(t *testing.T) {

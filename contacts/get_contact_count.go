@@ -3,7 +3,7 @@ package contacts
 import (
 	"strconv"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // GetContactCountResult request getContactCount request.

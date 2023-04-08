@@ -1,6 +1,6 @@
 package contacts
 
-import "github.com/alexeyco/unisender/api"
+import "github.com/dinalt/unisender/api"
 
 // CreateFieldResult result of createField request.
 type CreateFieldResult struct {

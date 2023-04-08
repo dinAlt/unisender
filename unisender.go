@@ -1,16 +1,16 @@
 package unisender
 
 import (
-	"github.com/alexeyco/unisender/partners"
+	"github.com/dinalt/unisender/partners"
 	"net/http"
 	"sync"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/campaigns"
-	"github.com/alexeyco/unisender/common"
-	"github.com/alexeyco/unisender/contacts"
-	"github.com/alexeyco/unisender/lists"
-	"github.com/alexeyco/unisender/messages"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/campaigns"
+	"github.com/dinalt/unisender/common"
+	"github.com/dinalt/unisender/contacts"
+	"github.com/dinalt/unisender/lists"
+	"github.com/dinalt/unisender/messages"
 )
 
 // LanguageDefault default API response language.

@@ -1,6 +1,6 @@
 package messages
 
-import "github.com/alexeyco/unisender/api"
+import "github.com/dinalt/unisender/api"
 
 // CreateEmailTemplateResult result of createEmailTemplate request.
 type CreateEmailTemplateResult struct {

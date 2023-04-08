@@ -1,7 +1,7 @@
 package messages
 
 import (
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 	"strings"
 )
 

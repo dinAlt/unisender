@@ -3,7 +3,7 @@ package messages
 import (
 	"strconv"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 // DeleteMessageRequest request to delete a message.

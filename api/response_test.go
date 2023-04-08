@@ -3,7 +3,7 @@ package api_test
 import (
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 func TestResponse_IsError(t *testing.T) {

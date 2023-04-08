@@ -3,7 +3,7 @@ package campaigns
 import (
 	"strconv"
 
-	"github.com/alexeyco/unisender/api"
+	"github.com/dinalt/unisender/api"
 )
 
 type GetWebVersionResult struct {

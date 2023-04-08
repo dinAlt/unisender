@@ -11,9 +11,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/contacts"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/contacts"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestSubscribeRequest_Field(t *testing.T) {

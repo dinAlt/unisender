@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alexeyco/unisender/contacts"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/contacts"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestImportContactsContact_Delete(t *testing.T) {

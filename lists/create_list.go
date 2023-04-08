@@ -1,6 +1,6 @@
 package lists
 
-import "github.com/alexeyco/unisender/api"
+import "github.com/dinalt/unisender/api"
 
 // CreateListResult response of createList request.
 type CreateListResult struct {

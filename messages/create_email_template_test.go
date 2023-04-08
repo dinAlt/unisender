@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/alexeyco/unisender/api"
-	"github.com/alexeyco/unisender/messages"
-	"github.com/alexeyco/unisender/test"
+	"github.com/dinalt/unisender/api"
+	"github.com/dinalt/unisender/messages"
+	"github.com/dinalt/unisender/test"
 )
 
 func TestCreateEmailTemplateRequest_Subject(t *testing.T) {
