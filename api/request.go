@@ -57,9 +57,7 @@ func (r *Request) Execute(method string, v interface{}) (err error) {
 		return
 	}
 
-	response := Response{
-		Result: v,
-	}
+	response := Response{Result: v}
 
 	if err = json.Unmarshal(body, &response); err != nil {
 		return
